@@ -30,9 +30,9 @@ from aiogram.exceptions import TelegramBadRequest
 # CONFIGURATION — edit these values
 # ══════════════════════════════════════════════════════════════
 
-BOT_TOKEN = "PUT_BOT_TOKEN_HERE"
+BOT_TOKEN = "8575910211:AAHzLl1Y6qp_N_onBzpd8nq_NgNgUv-fDbo"
 
-OWNER_ID = 0
+OWNER_ID = 8200980090
 
 CHANNEL_ID = -1002740009398
 CHANNEL_LINK = "https://t.me/+2Fxg6o4jEKAxOGQ1"
